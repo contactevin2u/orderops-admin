@@ -1,0 +1,48 @@
+{
+  "name": "orderops-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "vercel-build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactevin2u/orderops-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactevin2u/orderops-admin/issues"
+  },
+  "homepage": "https://github.com/contactevin2u/orderops-admin#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.11.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "jotai": "^2.13.1",
+    "lucide-react": "^0.539.0",
+    "next": "^14.2.31",
+    "postcss": "^8.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.10",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.7",
+    "typescript": "5.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
