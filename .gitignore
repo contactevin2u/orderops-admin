@@ -1,0 +1,22 @@
+﻿# Node/Next
+node_modules/
+.next/
+out/
+dist/
+.cache/
+coverage/
+*.log
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Env / local
+.env
+.env.*
+!.env.example
+.vercel/
+.vscode/
+.DS_Store
+
+# Build outputs
+*.local
