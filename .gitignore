@@ -20,3 +20,6 @@ yarn-error.log*
 
 # Build outputs
 *.local
+yarn-debug.log*
+pnpm-debug.log*
+package-lock.json
