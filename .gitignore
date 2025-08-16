@@ -1,0 +1,18 @@
+﻿# env
+.env
+.env.*
+*.env
+.env.local
+.env.production
+.env.development
+
+# next/node
+.next/
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp.*
+coverage/
+
+# os junk
+.DS_Store
